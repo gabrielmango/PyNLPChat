@@ -20,7 +20,7 @@ Este projeto é um chatbot desenvolvido em Python, uma aplicação capaz de inte
 
 1. Clone o repositório para o seu ambiente local.
 ```
-git clone https://github.com/seu-usuario/PyNLPChat.git
+git clone https://github.com/gabrielmango/PyNLPChat.git
 ```
 
 2. Certifique-se de ter o Python 3.x instalado em sua máquina.
